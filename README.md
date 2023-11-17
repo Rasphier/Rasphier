@@ -1,4 +1,4 @@
-👋 Greetings, I’m @Rasphier. I'm interested in learning how to code from scratch after obtaining a Biomedical Science degree. I am currently learning web development and python.
+👋 Greetings, I’m @Rasphier. I'm interested in learning how to code from scratch after obtaining a Biomedical Science degree. I am currently learning web development and software design.
 
 
 <!---
